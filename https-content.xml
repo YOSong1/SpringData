@@ -30,7 +30,7 @@
     <descriptor id="org.springframework.templates.mvc" kind="template" local="false" name="Spring MVC Project" requires="[0.0.0,2.8.0)" size="17198" url="https://dist.springsource.com/release/STS/help/org.springframework.templates.mvc-3.0.18.zip" version="3.0.18">
         <description>A new Spring MVC web application development project</description>
     </descriptor>
-    <descriptor id="org.springframework.templates.mvc" kind="template" local="false" name="Spring MVC Project" requires="2.8.0" requiresbundle="org.eclipse.m2e.core" size="16608" url="http://wisejia.iptime.org:8088/org.springframework.templates.mvc-3.2.2.zip" version="3.2.2">
+    <descriptor id="org.springframework.templates.mvc" kind="template" local="false" name="Spring MVC Project" requires="2.8.0" requiresbundle="org.eclipse.m2e.core" size="16608" url="http://wisejia.iptime.org:8000/org.springframework.templates.mvc-3.2.2.zip" version="3.2.2">
         <description>A new Spring MVC web application development project</description>
     </descriptor>
     <descriptor id="org.springframework.samples.spring.hibernate" kind="template" local="false" name="Simple Spring Hibernate Utility Project" requires="[0.0.0,2.8.0)" size="14052" url="https://dist.springsource.com/release/STS/help/org.springframework.samples.spring.hibernate-2.5.1.zip" version="2.5.1">
@@ -132,9 +132,6 @@
     </descriptor>
     <descriptor id="org.springframework.integration.sts.template.war" kind="template" local="false" name="Spring Integration Project (War)" requires="[0.0.0,3.0.0)" size="56242" url="https://raw.github.com/SpringSource/spring-integration-templates/master/si-sts-templates/builds/si-template-war-1.0.0.M2.zip" version="1.0.0.M2">
         <description>Creates a Spring Integration project that runs within a servlet container. Uses the Spring Integration Twitter adapter. Deprecated, please update STS to version 3.2+ for the latest template version</description>
-    </descriptor>
-    <descriptor id="org.springframework.templates.mvc" kind="template" local="true" name="Spring MVC Project" requiresbundle="org.eclipse.m2e.core" size="0" version="3.2.2">
-        <description>A new Spring MVC web application development project</description>
     </descriptor>
     <descriptor id="org.springframework.templates.mvc" kind="template" local="true" name="Spring MVC Project" requiresbundle="org.eclipse.m2e.core" size="0" version="3.2.2">
         <description>A new Spring MVC web application development project</description>
