@@ -16,6 +16,7 @@ org.springframework.templates.mvc-3.2.2.zip
 - 다음 코드와 같이 추가하며 자바 경로는 각자 설치되어 있는 위치를 확인합니다.
 
 -vm
+
 C:\Program Files\Java\jdk-11\bin\javaw.exe
 
 ![sts_ini](https://github.com/user-attachments/assets/c9f4bdc4-2e23-4dfd-b72f-d0c2a5e79203)
