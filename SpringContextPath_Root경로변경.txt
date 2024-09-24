@@ -6,3 +6,5 @@
     - 기존 세팅했던 Tomcat 중지한 후 삭제
     - Tomcat 재추가
 (3) 프로젝트 재시작
+
+- root 경로가 hello에서 /로 변경되었으므로 Controller로 전달하는 경로 중 hello가 쓰인 부분은 삭제
