@@ -1,0 +1,8 @@
+- Spring MVC의 root를 변경하여 테스트 하는 방법
+
+(1) 프로젝트 우클릭 -> Properties -> Web Project Settings에서 
+    - Context root:/ 로 변경(예를들어 기존에 hello 인 부분을 /로 변경) 
+(2) Server 
+    - 기존 세팅했던 Tomcat 중지한 후 삭제
+    - Tomcat 재추가
+(3) 프로젝트 재시작
