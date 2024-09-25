@@ -1,0 +1,10 @@
+- Spring starter project 사용하도록 다음 설정
+
+
+sts4 설치 경로에 SpringToolSuite4.ini파일을 찾아 다음 4줄 추가합니다.
+(예를들어) C:\Users\dseduoa.edu\Downloads\sts4\sts-4.25.0.RELEASE\SpringToolSuite4.ini
+
+-Dcom.sun.net.ssl.checkRevocation=false
+-Djavax.net.ssl.trustStoreType=Windows-ROOT
+-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2
+-Djsse.enableSNIExtension=false
