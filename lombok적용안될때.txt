@@ -1,0 +1,8 @@
+lombok 설치되었지만 적용 안될 때 
+
+- 사용 중인 STS 폴더의 STS.ini에 다음 값 적용
+   -vmargs
+   -javaagent:lombok.jar
+
+- 프로젝트 우클릭 -> Gradle -> Refresh Gradle Project
+
